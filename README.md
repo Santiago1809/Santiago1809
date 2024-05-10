@@ -1,5 +1,5 @@
 # Hola :wave:
-<p>Soy Santiago Aristizabal, soy estudiante de <h2>Ingeniería de Software</h2> y cada día trabajo un poco más en mis habilidades y trato de ser mejor persona y mejor programador. </p>
+<p>Soy Santiago Aristizabal, soy estudiante de <strong>Ingeniería de Software</strong> y cada día trabajo un poco más en mis habilidades y trato de ser mejor persona y mejor programador. </p>
 ## Mis Pasiones
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,ts,cs,php,mysql,mongo,nodejs,linux&perline=3)](https://github.com/Santiago1809/Santiago1809)
 

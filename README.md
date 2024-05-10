@@ -1,8 +1,6 @@
 ### Santiago1809
 
 ## Mis Pasiones
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,ts,cs,php,mysql,mongo,nodejs,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,ts,cs,php,mysql,mongo,nodejs,linux&perline=3)](https://github.com/Santiago1809/Santiago1809)
 
-## Proyectos y Colaboraciones
-
-Estoy abierto a nuevos proyectos y colaboraciones. Si tienes alguna idea interesante o quieres trabajar juntos, no dudes en contactarme. Siempre estoy emocionado por aprender y crecer junto a otros
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago1809)](https://github.com/Santiago1809/Santiago1809)

@@ -2,7 +2,7 @@
 Soy Santiago Aristizabal, soy estudiante de **Ingeniería de Software 💻**  y cada día trabajo un poco más en mis habilidades y trato de ser mejor persona y programador.
 
 ## Sobre mi
-Soy de la ciudad de Medellín, Antioquia en Colombia :CO:
+Soy de la ciudad de Medellín, Antioquia en Colombia :colombia:
 ## Mis Pasiones
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,ts,cs,php,mysql,mongo,nodejs,linux&perline=3)](https://github.com/Santiago1809/Santiago1809)
 

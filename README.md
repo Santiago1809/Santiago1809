@@ -1,5 +1,5 @@
 ### Santiago1809
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,ts,cs)](https://skillicons.dev)
 
 ## Mis Pasiones
 

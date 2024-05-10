@@ -1,7 +1,7 @@
 ### Santiago1809
 
 ## Mis Pasiones
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,ts,cs,php,sql,mongo&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,ts,cs,php,mysql,mongo&perline=3)](https://skillicons.dev)
 
 ## Proyectos y Colaboraciones
 

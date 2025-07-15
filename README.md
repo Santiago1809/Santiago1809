@@ -1,5 +1,6 @@
 # Hola 👋 
 Soy Santiago Aristizabal, soy estudiante de **Ingeniería de Software 💻**  y cada día trabajo un poco más en mis habilidades y trato de ser mejor persona y programador.
+[![GitHub Streak](https://streak-stats.demolab.com?user=Santiago1809&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSa&card_width=467)](#)
 
 ## Sobre mi
 Soy de la ciudad de Medellín, Antioquia en Colombia :colombia:. Me encanta la música :headphones: y leer. Disfruto el pasar tiempo con mis amigos y escuchar las historias de la gente.
